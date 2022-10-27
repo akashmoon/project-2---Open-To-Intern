@@ -1,0 +1,31 @@
+
+{
+    "name":"dclaw",
+    "fullName":"Dayanand college of law kanpur",
+    "logoLink":"https://functionup-stg.s3.ap-south-1.amazonaws.com/radon/dc-law.png"
+}
+{
+    "name":"vuu",
+    "fullName":"vikram university ujjain",
+    "logoLink":"https://functionup-stg.s3.ap-south-1.amazonaws.com/radon/vikram-university.jpg"
+}
+{
+    "name":"jdiet",
+    "fullName":"javaharlal darda college of engineering",
+    "logoLink":"https://functionup-stg.s3.ap-south-1.amazonaws.com/radon/jdiet.png"
+}
+{
+    "name":"pcccs",
+    "fullName":"pratibha college of commerce and computer science",
+    "logoLink":"https://functionup-stg.s3.ap-south-1.amazonaws.com/radon/pratibha-college-pune.png"
+}
+
+
+// intern data
+
+   {
+    "name" : "ajit kerle",
+    "email" : "ajitkerle70@gmail.com",
+    "mobile" : "9370648158",
+    "collegeName" :"pcccs"
+}
